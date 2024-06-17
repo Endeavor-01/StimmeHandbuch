@@ -28,8 +28,8 @@ This project is a basic voice assistant that can perform various tasks such as s
 1. **Clone the repository**:
 
     ```bash
-    git clone https://github.com/yourusername/voice-assistant.git
-    cd voice-assistant
+    git clone https://github.com/yourusername/StimmeHandbuch.git
+    cd StimmeHandbuch
     ```
 
 2. **Install the required Python packages**:
@@ -49,20 +49,19 @@ This project is a basic voice assistant that can perform various tasks such as s
 1. **Run the application**:
 
     ```bash
-    python app.py
+    python assist.py
     ```
 
 2. **Interact with the assistant** by speaking commands such as:
    - "Hello"
    - "What is your name?"
-   - "Search Wikipedia for [query]"
+   - "Search Wikipedia for [any topic based on wikipedia]"
    - "What is the date today?"
    - "Open my GitHub"
    - "Open LinkedIn"
    - "Open YouTube"
    - "Open Google"
    - "What time is it?"
-   - "Open my internship file"
    - "Send an email"
    - "Sleep"
 
