@@ -43,6 +43,7 @@ def takeCommand():
         return "none"
     return query.lower()
 
+# not working still work needed
 def sendEmail(to, content):
     server = smtplib.SMTP('smtp.gmail.com', 587)
     server.ehlo()
@@ -96,15 +97,6 @@ if __name__ == '__main__':
             time = datetime.datetime.now().strftime("%H : %M")
             speak(f"The time is : {time}")
         
-        elif 'my internship file' in query:
-            try:
-                folder = "C:\\Users\\Adnan\\Downloads\\osisi"
-                os.startfile(folder)
-            
-            except Exception as e:
-                print(e)
-                speak("sir i do not seem to find it")
-
 
      #  fixing required
         elif 'email me' in query:
