@@ -1,6 +1,6 @@
-# Voice Assistant
+# StimmeHandbuch
 
-This project is a basic voice assistant that can perform various tasks such as searching Wikipedia, opening web pages, telling the time and date, sending emails, and more. The assistant uses speech recognition to take voice commands and perform actions accordingly.
+This project is a basic "    " that can perform various tasks such as searching Wikipedia, opening web pages, telling the time and date, sending emails, and more. The assistant uses speech recognition to take voice commands and perform actions accordingly.
 
 ## Features
 
